@@ -4,6 +4,7 @@ OpenCV
 Dlib (Cmake to Install Dlib if not installed)
 SciPy
 Imutils
+Pygame
 
 
 
@@ -30,7 +31,7 @@ And the Main file - The main code for the project is written in this file.
 
 Project Details -
 
-This project is created using Pyhton 3.8 
+This project is created using Python 3.8 
 
 IDE used - Visual Studio Code as well as Visual Studio 2017
 
