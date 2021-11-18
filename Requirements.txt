@@ -12,6 +12,8 @@ Please note that if your system is giving you error for dlib no found/missing -
 
 Install MS Visual Studio from there install dependecies of Cmake from the Other Component tab.
 
+Also install Visual C++ Redistributable. (Must)
+
 Then again run the install command for dlib from the Command Prompt i.e, "pip install dlib", this is work.
 
 And if the last doesn't work, you need to install Cmake expilicitly. PLEASE REFER TO THE STACKOVERFLOW ARTICLE WHICH IS EASILY ACCESIBLE WITH A SIMPLE GOOGLE SEARCH.
